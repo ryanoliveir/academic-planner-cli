@@ -16,9 +16,9 @@ public:
     // Constructor
     Database() {
         // Initialize users
-        users.emplace_back("Alice", "alice@example.com");
-        users.emplace_back("Bob", "bob@example.com");
-        users.emplace_back("Charlie", "charlie@example.com");
+        users.emplace_back("Ryan de Oliveira", "ryandehallo229@gmail.com");
+        users.emplace_back("Matheus de Souza", "matheus@abdou.com.br");
+        users.emplace_back("Marcelo Correa", "macorrea-@hotmail.com");
 
         // Initialize travels
         travels.emplace_back("Sao Paulo", "2024-08-08");
